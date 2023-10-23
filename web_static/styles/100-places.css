@@ -1,0 +1,14 @@
+.places {
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.places h1 {
+	font-size: 30px;
+}
+.listing {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
